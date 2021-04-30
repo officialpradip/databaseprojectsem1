@@ -1,0 +1,28 @@
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\bin\Debug\Music Nepal.exe.config
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\bin\Debug\Music Nepal.exe
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\bin\Debug\Music Nepal.pdb
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.Properties.Resources.resources
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music Nepal.csproj.GenerateResource.cache
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music Nepal.csproj.CoreCompileInputs.cache
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music Nepal.exe
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music Nepal.pdb
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.Artists.resources
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music Nepal.csprojAssemblyReference.cache
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.Buyers.resources
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.Login.resources
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.main.resources
+E:\Assignment 1 sem\database\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.Songs.resources
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\bin\Debug\Music Nepal.exe.config
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\bin\Debug\Music Nepal.exe
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\bin\Debug\Music Nepal.pdb
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.Artists.resources
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.Buyers.resources
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.Login.resources
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.main.resources
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.Properties.Resources.resources
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music_Nepal.Songs.resources
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music Nepal.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music Nepal.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music Nepal.exe
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music Nepal.pdb
+C:\Users\Acer\Desktop\Music Nepal\Music Nepal\Music Nepal\obj\Debug\Music Nepal.csprojAssemblyReference.cache
